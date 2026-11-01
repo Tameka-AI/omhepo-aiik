@@ -1,0 +1,481 @@
+{
+  "fetched_at": "2026-11-01",
+  "source_folder": "https://drive.google.com/drive/folders/1qMe-zZmkIh8Y4MTegadYI223FFFVIdnN",
+  "files": [
+    {
+      "path": "data/kalunga.md",
+      "id": "1fM78S8a9qBO4EYmQYdic2LBLL3_Ixl_X",
+      "url": "https://drive.google.com/file/d/1fM78S8a9qBO4EYmQYdic2LBLL3_Ixl_X/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 336,
+      "local_size": 336,
+      "size_matches": true,
+      "sha256": "3d6c1aec4d2a3940d62fb7a0be51538ca9d69c1f11bbb9887d1cf7abb5ec1de4"
+    },
+    {
+      "path": "data/oshizimo.md",
+      "id": "10-9-YfcMB8B5Q5jcwtD22TolVDahYKNA",
+      "url": "https://drive.google.com/file/d/10-9-YfcMB8B5Q5jcwtD22TolVDahYKNA/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 435,
+      "local_size": 435,
+      "size_matches": true,
+      "sha256": "fa39b5125e156f013304884c844201fdd477e177bb0872b18828b044fc8b9348"
+    },
+    {
+      "path": "data/restricted-efundula-olufuko.md",
+      "id": "1guV186ctwVhx7e3pZvjPPeaMH_hzUDOt",
+      "url": "https://drive.google.com/file/d/1guV186ctwVhx7e3pZvjPPeaMH_hzUDOt/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 889,
+      "local_size": 889,
+      "size_matches": true,
+      "sha256": "b9662bf9742cf0c9e35d097a183929f5b2db1e2642381622bfe60344e9a1cb26"
+    },
+    {
+      "path": "data/rites-of-the-life-cycle.md",
+      "id": "1oPSI_kb0rsbS3v7p-ZZ4aEpE3srA_vGK",
+      "url": "https://drive.google.com/file/d/1oPSI_kb0rsbS3v7p-ZZ4aEpE3srA_vGK/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 989,
+      "local_size": 989,
+      "size_matches": true,
+      "sha256": "8c5565cffb9fdbc816ea287455da61e3105f78d97a737e88a418d8518e809073"
+    },
+    {
+      "path": "data/the-homestead-and-the-land.md",
+      "id": "1m1wRP-hzzbY-C4qQpanQLhv7LSbZlu-f",
+      "url": "https://drive.google.com/file/d/1m1wRP-hzzbY-C4qQpanQLhv7LSbZlu-f/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 802,
+      "local_size": 802,
+      "size_matches": true,
+      "sha256": "394cdc28d2fdea9f346cd4cb9e618986f2b3e6c744467a0244551085b8045894"
+    },
+    {
+      "path": "data/aawambo-subgroups-and-dialects.md",
+      "id": "1kqo7qzqpbxzm__TIsVmzWwumI6bgKVS2",
+      "url": "https://drive.google.com/file/d/1kqo7qzqpbxzm__TIsVmzWwumI6bgKVS2/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1014,
+      "local_size": 1014,
+      "size_matches": true,
+      "sha256": "14ca8fed50711043dd879278608e733b762e0782235056c1c3518ea086cae3e7"
+    },
+    {
+      "path": "data/aakwanakalimba.md",
+      "id": "1AWNQ-A95Eou-3Wt-hqV2dzGty2WPWGKb",
+      "url": "https://drive.google.com/file/d/1AWNQ-A95Eou-3Wt-hqV2dzGty2WPWGKb/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 735,
+      "local_size": 735,
+      "size_matches": true,
+      "sha256": "b09fbc05b2c6bd0a06a5bbadabf82212212f13f80822a01e70823b803b7a57e0"
+    },
+    {
+      "path": "data/aakwalukwo.md",
+      "id": "1Hj4WVYDL54C7njhXAV0fcanp03OH-tjF",
+      "url": "https://drive.google.com/file/d/1Hj4WVYDL54C7njhXAV0fcanp03OH-tjF/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 750,
+      "local_size": 750,
+      "size_matches": true,
+      "sha256": "f51b06dc4aad9ca1bf75f8b227c7e884d61e9fc52cb768b2685d7ccd98b83418"
+    },
+    {
+      "path": "data/aakuusinda.md",
+      "id": "1TnNzmQ1d3N112Q-vSAW14cRY9rh_-C0Z",
+      "url": "https://drive.google.com/file/d/1TnNzmQ1d3N112Q-vSAW14cRY9rh_-C0Z/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1224,
+      "local_size": 1224,
+      "size_matches": true,
+      "sha256": "5d9a3ccf364ab4fd5b4a6f96c74fda1d4250c9088abbbe8d6917bbafc2ea5b82"
+    },
+    {
+      "path": "data/aakwamandjila.md",
+      "id": "1QIAjp0nYqNx_zKfN66t8zc5PKvsX_-UD",
+      "url": "https://drive.google.com/file/d/1QIAjp0nYqNx_zKfN66t8zc5PKvsX_-UD/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1338,
+      "local_size": 1338,
+      "size_matches": true,
+      "sha256": "cf185d04fa588a2e74cd1f392eafd6e25c6f2a5f7ce6af995862453f7403209e"
+    },
+    {
+      "path": "data/aakwanyati.md",
+      "id": "1XlJEudAi1SfaeD1YLedgGgcM-0ZBTgXa",
+      "url": "https://drive.google.com/file/d/1XlJEudAi1SfaeD1YLedgGgcM-0ZBTgXa/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 691,
+      "local_size": 691,
+      "size_matches": true,
+      "sha256": "298cc8770ad7bcdaad99334c0e50cb72141539f773f0b830fb96b289c7d002ee"
+    },
+    {
+      "path": "data/aakwamhani.md",
+      "id": "1gNghEoJiIPFY54ftoCGP_Fj_xi7z-58R",
+      "url": "https://drive.google.com/file/d/1gNghEoJiIPFY54ftoCGP_Fj_xi7z-58R/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 715,
+      "local_size": 715,
+      "size_matches": true,
+      "sha256": "329732a527f7ac4349d90cf8af3d7f47d4803b5d31131d60e4eeb7c8b3098ad4"
+    },
+    {
+      "path": "data/aakwanaidi.md",
+      "id": "1cmlzenZAbG1TEkSemoH4KYAfoh1Vw-tJ",
+      "url": "https://drive.google.com/file/d/1cmlzenZAbG1TEkSemoH4KYAfoh1Vw-tJ/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 725,
+      "local_size": 725,
+      "size_matches": true,
+      "sha256": "fb8e494e56be33a31891723dd600bc2c3cdba3bd2357a5547ba607bd5d455ad9"
+    },
+    {
+      "path": "data/aakwanadi.md",
+      "id": "1ezF-qbb6bHljpsXb6arXeaMt7ByO07LB",
+      "url": "https://drive.google.com/file/d/1ezF-qbb6bHljpsXb6arXeaMt7ByO07LB/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 717,
+      "local_size": 717,
+      "size_matches": true,
+      "sha256": "57f89478da6eb854ab60b5f7f359fad9ff56cf52e5e2389da64e1980891169bc"
+    },
+    {
+      "path": "data/aakwanangandu.md",
+      "id": "1f7_kMO9t9mYg6qT_Z1NVoaaqLmIKBqRO",
+      "url": "https://drive.google.com/file/d/1f7_kMO9t9mYg6qT_Z1NVoaaqLmIKBqRO/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 743,
+      "local_size": 743,
+      "size_matches": true,
+      "sha256": "6a9bdc0165aa301fa4d662c8d87a4f294c77dc2368d25504bea41c093ef153ac"
+    },
+    {
+      "path": "data/aakwahongo.md",
+      "id": "1vpdpfrbRsYqauoUjsQ0EX2D6jls-cndx",
+      "url": "https://drive.google.com/file/d/1vpdpfrbRsYqauoUjsQ0EX2D6jls-cndx/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 790,
+      "local_size": 790,
+      "size_matches": true,
+      "sha256": "b313d0934325aef9c35a78da157e94006717edd05beb527220be390589264a4e"
+    },
+    {
+      "path": "data/aakwashidila.md",
+      "id": "1piLwuSIkwzBIlViVr9d4S307bX2IhQmY",
+      "url": "https://drive.google.com/file/d/1piLwuSIkwzBIlViVr9d4S307bX2IhQmY/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 747,
+      "local_size": 747,
+      "size_matches": true,
+      "sha256": "6e6bbe20de5fb72e5047497f924140b3cd7de2ad2b94bc582a399cb012601205"
+    },
+    {
+      "path": "data/aakwanghala.md",
+      "id": "1kacQNMTsPZDlE8b7tliB_bjzdRcB2hJM",
+      "url": "https://drive.google.com/file/d/1kacQNMTsPZDlE8b7tliB_bjzdRcB2hJM/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 781,
+      "local_size": 781,
+      "size_matches": true,
+      "sha256": "02e777e2ada9124e969021a19bbba5106dd8df7a6dac00d249917d9f5180ab71"
+    },
+    {
+      "path": "data/aakwahepo.md",
+      "id": "1IEjr2xypyItJGfcNlSGR7CFWe5Mco1uU",
+      "url": "https://drive.google.com/file/d/1IEjr2xypyItJGfcNlSGR7CFWe5Mco1uU/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 705,
+      "local_size": 705,
+      "size_matches": true,
+      "sha256": "7606072f59d6f12500d42c4937ae21d1bef3f204154052ada368ca97c31bed12"
+    },
+    {
+      "path": "data/mahangu-and-the-aawambo-table.md",
+      "id": "1gDTs-uVV0ocVmAN1tRkaisYjmDwGGJ2f",
+      "url": "https://drive.google.com/file/d/1gDTs-uVV0ocVmAN1tRkaisYjmDwGGJ2f/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 923,
+      "local_size": 923,
+      "size_matches": true,
+      "sha256": "f84b8dedc99e08f77dbc1a4380f0ea8f6ad897cafa73cbe5fc496b883be67f04"
+    },
+    {
+      "path": "data/matrilineal-descent-and-inheritance.md",
+      "id": "1Z3p-SJjKh1QSGJoi8eVS4Nxo_D9XChYU",
+      "url": "https://drive.google.com/file/d/1Z3p-SJjKh1QSGJoi8eVS4Nxo_D9XChYU/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 901,
+      "local_size": 901,
+      "size_matches": true,
+      "sha256": "b30ea1b7c8d392ca2c18970be53ec7e15e40dcb11a01e10d61e5e865daceb664"
+    },
+    {
+      "path": "data/kalunga-and-the-sacred-fire.md",
+      "id": "1oaCfrFaEev72au_avG8exqqIdNUUUDlz",
+      "url": "https://drive.google.com/file/d/1oaCfrFaEev72au_avG8exqqIdNUUUDlz/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1157,
+      "local_size": 1157,
+      "size_matches": true,
+      "sha256": "71ceef8bc52224460a010eb317608a1585c316b45d1908241ebaaebf45b1719e"
+    },
+    {
+      "path": "data/aakwanahungi.md",
+      "id": "1hL2hnjS4n0yZGhUcnaDqrhVMLftjH6dZ",
+      "url": "https://drive.google.com/file/d/1hL2hnjS4n0yZGhUcnaDqrhVMLftjH6dZ/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 983,
+      "local_size": 983,
+      "size_matches": true,
+      "sha256": "46895fb6578e6293987c43d7b3e2c782215e971fbd8714ada38cb79dea9a4dfa"
+    },
+    {
+      "path": "data/aakwaanime.md",
+      "id": "1V3SpNBKjvuqu8s7sQJh8QoqMywFL57Jo",
+      "url": "https://drive.google.com/file/d/1V3SpNBKjvuqu8s7sQJh8QoqMywFL57Jo/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 793,
+      "local_size": 793,
+      "size_matches": true,
+      "sha256": "f5286c4e16419b7f2a364f7c93cf4bd36677d9fc326ab8551e0afafcb0c793a1"
+    },
+    {
+      "path": "data/aakwanekamba.md",
+      "id": "1y7h9CdeoWlGkmKSRrEib1AoshNrrOLBl",
+      "url": "https://drive.google.com/file/d/1y7h9CdeoWlGkmKSRrEib1AoshNrrOLBl/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1045,
+      "local_size": 1045,
+      "size_matches": true,
+      "sha256": "1a1f33dac2a27314708e1243829c91737d25140ddb7eb940903b16a33ccdf13d"
+    },
+    {
+      "path": "data/aakwanangobe.md",
+      "id": "1pF1-H5RGdWbP5LrLbFlIY7nWG7v2JAqv",
+      "url": "https://drive.google.com/file/d/1pF1-H5RGdWbP5LrLbFlIY7nWG7v2JAqv/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 951,
+      "local_size": 951,
+      "size_matches": true,
+      "sha256": "90c6d8e1bc5bb12969af0d27a212f6ad4eeb2eff390c4bbd283db870fcad5b1c"
+    },
+    {
+      "path": "data/aatundu.md",
+      "id": "1CWTsxqRJB8Fqaocwa8nMmPPUAfq0FSwh",
+      "url": "https://drive.google.com/file/d/1CWTsxqRJB8Fqaocwa8nMmPPUAfq0FSwh/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 913,
+      "local_size": 913,
+      "size_matches": true,
+      "sha256": "5665341e3e8ea55c2a3301f2ad3bbbe8ddaef98a0ec77bb8b040528eaf4fec0c"
+    },
+    {
+      "path": "data/ezimo.md",
+      "id": "1rai9nkrH5naKpzy3cZc4rqaiDLE1kwnf",
+      "url": "https://drive.google.com/file/d/1rai9nkrH5naKpzy3cZc4rqaiDLE1kwnf/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 440,
+      "local_size": 440,
+      "size_matches": true,
+      "sha256": "f14774c01f459a04dcbf7902de311b9c4154f1e2015fb1d659bad1130ac9d970"
+    },
+    {
+      "path": "data/aawambo-clan-totem-system.md",
+      "id": "12tynnQ3OnZGRGdlT2gbbYWMofkSdYukW",
+      "url": "https://drive.google.com/file/d/12tynnQ3OnZGRGdlT2gbbYWMofkSdYukW/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1179,
+      "local_size": 1179,
+      "size_matches": true,
+      "sha256": "d2a7aacf900cf8ce4dfe565f673fae189d98afdf0957367fef59403e7192b6e0"
+    },
+    {
+      "path": "data/aakwanambuba.md",
+      "id": "1qWpv-hkTE6YuDR1PwAVkOL6prjoM6ztE",
+      "url": "https://drive.google.com/file/d/1qWpv-hkTE6YuDR1PwAVkOL6prjoM6ztE/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1176,
+      "local_size": 1176,
+      "size_matches": true,
+      "sha256": "97c0d1f6d0033121692fa4fbcf640e8ff4df06dd31c05a1e8f663954ccb5b0a5"
+    },
+    {
+      "path": "data/aakwanambwa.md",
+      "id": "1iHkH93GiCPU42NTKf3PUxQG5yi-qrCJ4",
+      "url": "https://drive.google.com/file/d/1iHkH93GiCPU42NTKf3PUxQG5yi-qrCJ4/view?usp=drivesdk",
+      "mime_type": "text/plain",
+      "source_size": 1454,
+      "local_size": 1454,
+      "size_matches": true,
+      "sha256": "378f7801bc50ac7b0cf1ab237fe58e59cb4d2843155a307b310c247b1f6d2a93"
+    },
+    {
+      "path": "data/seed.ts",
+      "id": "1j-P-uWMs5Fgadt04LQNsuN3gbPc2zAoY",
+      "url": "https://drive.google.com/file/d/1j-P-uWMs5Fgadt04LQNsuN3gbPc2zAoY/view?usp=drivesdk",
+      "mime_type": "text/texmacs",
+      "source_size": 4819,
+      "local_size": 4819,
+      "size_matches": true,
+      "sha256": "8f888a1fdf6f27b3dd2130ad49d76818f1060b2f0b45255a36c733497f695b4f"
+    },
+    {
+      "path": "data/seed-clans-v2.ts",
+      "id": "1So1NeZhJ-moLTVtzZzm6N9wwQbWJgOJ2",
+      "url": "https://drive.google.com/file/d/1So1NeZhJ-moLTVtzZzm6N9wwQbWJgOJ2/view?usp=drivesdk",
+      "mime_type": "text/texmacs",
+      "source_size": 18559,
+      "local_size": 18559,
+      "size_matches": true,
+      "sha256": "559aea6e4a3093831f3f01329414e15e5ab9896144dec016fb1fe8d5bc9e51d4"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-oshiyuma-shiwa-iyashikalelele-melimba.md",
+      "id": "1etuccC6H4NsGrIYyHgHwn-BNq2S2dQAr",
+      "url": "https://drive.google.com/file/d/1etuccC6H4NsGrIYyHgHwn-BNq2S2dQAr/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 2016,
+      "local_size": 2016,
+      "size_matches": true,
+      "sha256": "9fe1a90bd7e3c267bb2a0e71be40313da6170771f89a1779ab1084a992f8812e"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-oshitunda-nonghedi-yasho.md",
+      "id": "1_yc83V61SijLq0XxqI3NUeiTh9NvZdsc",
+      "url": "https://drive.google.com/file/d/1_yc83V61SijLq0XxqI3NUeiTh9NvZdsc/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1940,
+      "local_size": 1940,
+      "size_matches": true,
+      "sha256": "1c94a007a4140a734798cd614695484e1798a44a42f2de430a366fefb4ad697a"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-omweenge-mwenge-tala-kefo.md",
+      "id": "1LYnph-EayHRFw9BQ2mZkDCztImptUAjT",
+      "url": "https://drive.google.com/file/d/1LYnph-EayHRFw9BQ2mZkDCztImptUAjT/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1903,
+      "local_size": 1903,
+      "size_matches": true,
+      "sha256": "2f1c46399738d90342cbf73f61fb7e68c8b26765ff80092ea7a0e2e2aecd7355"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-okaholameno-kopondjila-omambodwe.md",
+      "id": "10zwJVvMmqmd4TkToOv0UuLg2YnWt2DxU",
+      "url": "https://drive.google.com/file/d/10zwJVvMmqmd4TkToOv0UuLg2YnWt2DxU/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1846,
+      "local_size": 1846,
+      "size_matches": true,
+      "sha256": "8fd00f5ea667ff0ecb9f54a9b4ef80c2394b41cd7abd89ee37d6da65f27ae830"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-okadila-iyakelitu-koshiti.md",
+      "id": "1JxCG-Sfv--MRJX_U-YSq8n3qG56NFNp_",
+      "url": "https://drive.google.com/file/d/1JxCG-Sfv--MRJX_U-YSq8n3qG56NFNp_/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1871,
+      "local_size": 1871,
+      "size_matches": true,
+      "sha256": "e571ff073579a9d58fdf7d9e5bfe275e7935309c626c583fc72b19f61355290a"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-lokwooko-iyalishikula-lokuulu.md",
+      "id": "143BLbJaWZgNgdQJSH8qxZkkf7peHNgXJ",
+      "url": "https://drive.google.com/file/d/143BLbJaWZgNgdQJSH8qxZkkf7peHNgXJ/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1836,
+      "local_size": 1836,
+      "size_matches": true,
+      "sha256": "8278bbc9380ef72936eebb4f9735e6697f604130c0ba79edd57bc907f2c39010"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-kahaluni-no-peumba-nyanga-no-peumba-laye.md",
+      "id": "1im1XI-jnkswQyUEsTOcr2ljWZ52CXA3w",
+      "url": "https://drive.google.com/file/d/1im1XI-jnkswQyUEsTOcr2ljWZ52CXA3w/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1945,
+      "local_size": 1945,
+      "size_matches": true,
+      "sha256": "b7f435ad815de2f0229d61518d4b268e7b1ab17dcbbdbdb79a6bb9c8b21c7401"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-inolotoka-unene-shikula-ondjila.md",
+      "id": "1AvodZO1GAXW49cHlKpfCJapBbgqKn43z",
+      "url": "https://drive.google.com/file/d/1AvodZO1GAXW49cHlKpfCJapBbgqKn43z/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1923,
+      "local_size": 1923,
+      "size_matches": true,
+      "sha256": "6537d2f08bcb8144f70240875e8f5073f76107ee55e029b748c6069ee0202f3c"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-hondile-muwa-ohomwandi.md",
+      "id": "1-0jjlDOxmGabm_ixK4zx_tZMI-A3vEKQ",
+      "url": "https://drive.google.com/file/d/1-0jjlDOxmGabm_ixK4zx_tZMI-A3vEKQ/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 2027,
+      "local_size": 2027,
+      "size_matches": true,
+      "sha256": "5afddbfa94a87b9bf0e9e07dff7da97f8b437cbff0bb19340f90136e56fae76a"
+    },
+    {
+      "path": "content/knowledge/proverbs/proverb-etimaubwile-lidule-ekuta.md",
+      "id": "1YGMrqM6hmouC-ZcsbO349kzwfN0LE34D",
+      "url": "https://drive.google.com/file/d/1YGMrqM6hmouC-ZcsbO349kzwfN0LE34D/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1851,
+      "local_size": 1851,
+      "size_matches": true,
+      "sha256": "aa10407ed95c132b43a46e062ca797ca7ff3fe7e840a19c53e8cc14eeb802be6"
+    },
+    {
+      "path": "docs/09-gemini-check-2026-11-01.md",
+      "id": "1aRF4ogQY8RVz3LAtoUiNReQmM4oDM7yP",
+      "url": "https://drive.google.com/file/d/1aRF4ogQY8RVz3LAtoUiNReQmM4oDM7yP/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 5808,
+      "local_size": 5808,
+      "size_matches": true,
+      "sha256": "4703a84aacb8ec41082a268983bea5ce2aa3f0668d392058e96c669a2734d350"
+    },
+    {
+      "path": "docs/08-second-sweep-2026-11-01.md",
+      "id": "1da-VD1sqIR6Tc7UjcYKP2ykrJ8dQDz4U",
+      "url": "https://drive.google.com/file/d/1da-VD1sqIR6Tc7UjcYKP2ykrJ8dQDz4U/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 3110,
+      "local_size": 3110,
+      "size_matches": true,
+      "sha256": "47cb5ee91ca25bf58a0210e772391b28a3c44e262fc06a2b39cc899abdd5ca97"
+    },
+    {
+      "path": "docs/05-namibian-sources-extract.md",
+      "id": "1LGuPXNQezxJpoVMMy3-k9u9GcjHFrJer",
+      "url": "https://drive.google.com/file/d/1LGuPXNQezxJpoVMMy3-k9u9GcjHFrJer/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 27802,
+      "local_size": 27802,
+      "size_matches": true,
+      "sha256": "91255a1cc52a0837c05470c1862a7f01f972e282269a6a728b79b7389067667b"
+    },
+    {
+      "path": "README.md",
+      "id": "1qkU2m-6VyGRukT9Iv7dewfT8nFqkTii5",
+      "url": "https://drive.google.com/file/d/1qkU2m-6VyGRukT9Iv7dewfT8nFqkTii5/view?usp=drivesdk",
+      "mime_type": "text/markdown",
+      "source_size": 1951,
+      "local_size": 1951,
+      "size_matches": true,
+      "sha256": "97d5ad9afc652b9609c235def3556514e2db973d2879c13a6b3dbc60bc2d6b25"
+    }
+  ],
+  "attachedSharedTypes": {
+    "path": "shared/types/index.ts",
+    "sha256": "3856a9c91c438ba8a4596e4fb4ef0574f5982608b487b608d2090feca386b481",
+    "source": "Supplied index.ts attachment"
+  }
+}

@@ -1,0 +1,25 @@
+import Link from "next/link";
+import { getClans, getCopy, getKnowledge, getRecords, recordHref } from "@/modules/content";
+import { copyText, pickCopy } from "@/components/copy";
+import { ArrowIcon, ArchiveIcon, ThreadMark } from "@/components/Icons";
+import { ClanCard } from "@/components/ContentCards";
+import { VerificationBadge, SourceBadge, ScopeLine } from "@/components/governance";
+import { ChatWindow } from "@/components/ChatWindow";
+
+export default function HomePage() {
+  const copy = getCopy();
+  const clans = getClans();
+  const proverbs = getKnowledge().filter((record) => record.kind === "knowledge" && record.data.category === "proverb");
+  const featuredProverb = proverbs.find((record) => record.kind === "knowledge" && record.data.id === "proverb-hondile-muwa-ohomwandi") ?? proverbs[0];
+  const featuredClans = clans.filter((record) => record.data.verification === "owner-reviewed").slice(0, 2);
+  const publicCount = getRecords().filter((record) => record.kind !== "restricted").length;
+  return <>
+    <section className="container hero"><div className="hero-copy"><p className="eyebrow">{copyText(copy, "home.eyebrow")}</p><h1>{copyText(copy, "home.title")}<span>{copyText(copy, "home.titleAccent")}</span></h1><p className="hero-intro">{copyText(copy, "home.intro")}</p><div className="hero-actions"><Link className="button button-primary" href="/#ask">{copyText(copy, "home.ask")}<ArrowIcon /></Link><Link className="button button-text" href="/clans">{copyText(copy, "home.explore")}<ArrowIcon diagonal /></Link></div><p className="hero-promise"><span aria-hidden="true" />{copyText(copy, "home.promise")}</p></div>
+      {featuredProverb?.kind === "knowledge" && <div className="hero-feature"><ThreadMark /><article className="proverb-feature"><div className="proverb-feature-top"><span className="eyebrow">{copyText(copy, "home.proverbLabel")}</span><span className="proverb-number" aria-hidden="true">01 / {String(proverbs.length).padStart(2, "0")}</span></div><div className="quotation-mark" aria-hidden="true">“</div><blockquote><p lang={featuredProverb.data.title[0].lang}>{featuredProverb.data.title[0].text}</p>{featuredProverb.data.literalTranslation?.map((text) => <p key={text.lang} className="proverb-literal" lang={text.lang}>{text.text}</p>)}</blockquote><p className="proverb-meaning">{featuredProverb.data.summary}</p><ScopeLine scope={featuredProverb.data.scope} copy={copy} /><div className="proverb-source-row"><VerificationBadge status={featuredProverb.data.verification} copy={copy} /><SourceBadge provenance={featuredProverb.data.provenance} copy={copy} /></div><div className="proverb-feature-footer"><Link className="text-link" href={recordHref(featuredProverb)}>{copyText(copy, "home.proverbLink")}<ArrowIcon /></Link></div></article></div>}
+    </section>
+    <section className="container stats-strip" aria-label={copyText(copy, "home.statsLabel")}><div><strong>{String(clans.length).padStart(2, "0")}</strong><span>{copyText(copy, "home.statClans")}</span></div><div><strong>{String(proverbs.length).padStart(2, "0")}</strong><span>{copyText(copy, "home.statProverbs")}</span></div><div><strong>{publicCount}</strong><span>{copyText(copy, "home.statPublic")}</span></div><p><ArchiveIcon />{copyText(copy, "home.statPrinciple")}</p></section>
+    <section className="container home-clans"><div className="section-heading"><div><p className="eyebrow">{copyText(copy, "home.featuredEyebrow")}</p><h2>{copyText(copy, "home.featuredTitle")}</h2><p>{copyText(copy, "home.featuredDescription")}</p></div><Link className="text-link" href="/clans">{copyText(copy, "home.allClans")}<ArrowIcon /></Link></div><div className="two-column-grid">{featuredClans.map((record) => <ClanCard key={record.data.id} record={record} copy={copy} featured />)}</div></section>
+    <section className="chat-section" id="ask"><div className="container chat-section-inner"><div className="chat-section-intro"><p className="eyebrow">{copyText(copy, "home.chatEyebrow")}</p><h2>{copyText(copy, "home.chatTitle")}<span>{copyText(copy, "home.chatTitleAccent")}</span></h2><p>{copyText(copy, "home.chatDescription")}</p><div className="chat-boundary-note"><p>{copyText(copy, "home.chatBoundary")}</p><Link className="text-link" href="/about">{copyText(copy, "home.chatBoundaryLink")}<ArrowIcon /></Link></div></div><ChatWindow copy={pickCopy(copy, ["chat.", "verification.", "source.", "scope."])} /></div></section>
+    <section className="container explore-section"><div className="section-heading"><div><p className="eyebrow">{copyText(copy, "home.browseEyebrow")}</p><h2>{copyText(copy, "home.browseTitle")}</h2></div></div><div className="explore-grid">{[["/library", "library"], ["/glossary", "glossary"], ["/onboarding", "identity"]].map(([href, key], index) => <Link className="explore-card" href={href} key={href}><span className="explore-index">{String(index + 1).padStart(2, "0")}</span><h3>{copyText(copy, `home.${key}Title`)}</h3><p>{copyText(copy, `home.${key}Description`)}</p><ArrowIcon /></Link>)}</div></section>
+  </>;
+}
